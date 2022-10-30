@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\QuanliSinhVien\QuanliSinhVien\bin\Debug\QuanliSinhVien.exe.config
+C:\Users\Administrator\source\repos\QuanliSinhVien\QuanliSinhVien\bin\Debug\QuanliSinhVien.exe
+C:\Users\Administrator\source\repos\QuanliSinhVien\QuanliSinhVien\bin\Debug\QuanliSinhVien.pdb
+C:\Users\Administrator\source\repos\QuanliSinhVien\QuanliSinhVien\obj\Debug\QuanliSinhVien.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\QuanliSinhVien\QuanliSinhVien\obj\Debug\QuanliSinhVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\QuanliSinhVien\QuanliSinhVien\obj\Debug\QuanliSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QuanliSinhVien\QuanliSinhVien\obj\Debug\QuanliSinhVien.exe
+C:\Users\Administrator\source\repos\QuanliSinhVien\QuanliSinhVien\obj\Debug\QuanliSinhVien.pdb
