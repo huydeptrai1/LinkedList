@@ -1,8 +1,0 @@
-C:\Users\Administrator\source\repos\Exercise1test\bin\Debug\Exercise1test.exe.config
-C:\Users\Administrator\source\repos\Exercise1test\bin\Debug\Exercise1test.exe
-C:\Users\Administrator\source\repos\Exercise1test\bin\Debug\Exercise1test.pdb
-C:\Users\Administrator\source\repos\Exercise1test\obj\Debug\Exercise1test.csproj.AssemblyReference.cache
-C:\Users\Administrator\source\repos\Exercise1test\obj\Debug\Exercise1test.csproj.SuggestedBindingRedirects.cache
-C:\Users\Administrator\source\repos\Exercise1test\obj\Debug\Exercise1test.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\source\repos\Exercise1test\obj\Debug\Exercise1test.exe
-C:\Users\Administrator\source\repos\Exercise1test\obj\Debug\Exercise1test.pdb
